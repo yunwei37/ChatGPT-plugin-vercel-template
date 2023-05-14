@@ -15,6 +15,6 @@ export async function GET(req: NextRequest) {
 
   return NextResponse.json({
     ...response,
-    infoLink: `https://weathergpt-gawee8z3a-yunwei37.vercel.app/${encodeURIComponent(location)}`,
+    infoLink: `https://weathergpt-delta-inky.vercel.app/${encodeURIComponent(location)}`,
   });
 }

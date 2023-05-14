@@ -13,7 +13,7 @@ export const metadata = {
       "WeatherGPT is a ChatGPT Plugin to get the weather of any given location. Built with Next.js and served from Vercel's Edge Network.",
     creator: "@steventey",
   },
-  metadataBase: new URL("https://weathergpt-gawee8z3a-yunwei37.vercel.app"),
+  metadataBase: new URL("https://weathergpt-delta-inky.vercel.app"),
   themeColor: "#FFF",
 };
 
