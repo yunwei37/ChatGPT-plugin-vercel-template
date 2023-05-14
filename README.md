@@ -1,23 +1,6 @@
-<a href="https://github.com/steven-tey/weathergpt">
-   <img src="https://weathergpt-delta-inky.vercel.app/opengraph-image.png" alt="OG Image">
-</a>
-
-<h1 align="center">WeatherGPT</h3>
-
-<p align="center">
-   A ChatGPT Plugin starter template built with Next.js 13 App Router, Edge Functions, and Vercel
-</p>
-
-<p align="center">
-  <a href="#introduction"><strong>Introduction</strong></a> ·
-  <a href="#features"><strong>Features</strong></a> ·
-  <a href="#try-the-plugin"><strong>Try the Plugin</strong></a> ·
-  <a href="#deploy-your-own"><strong>Deploy Your Own</strong></a> ·
-  <a href="https://steventey.com/blog/chatgpt-plugin"><strong>Read the blog post</strong></a>
-</p>
-<br/>
-
 ## Introduction
+
+[**中文文档**](README_zh.md)
 
 WeatherGPT is a ChatGPT Plugin to get the weather of any given location.
 
